@@ -1,0 +1,10 @@
+# Directories
+.vscode/
+firmware/.settings/
+firmware/Debug/
+firmware/Release/
+gui/build/
+
+# Files
+firmware/weaver.launch
+gui/CMakeLists.txt.user
