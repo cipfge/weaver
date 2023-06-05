@@ -24,5 +24,6 @@ Indoor air quality monitor
 The firmware can be compiled using GCC-ARM toolchain with the makefile provided or using the STM32Cube IDE.
 
 ## GUI configuration tool
+![gui](doc/weaver_gui.png)
 
 The GUI tool requires Qt and QtSerialPort library
